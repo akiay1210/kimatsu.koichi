@@ -2,7 +2,7 @@
 
 function changePhoto618() {
   document.getElementById("myPhoto2").src =
-    "image/S__75644956_0.jpg";
+    "image/shimari02007_TP_V.webp";
 
   setTimeout(returnPhoto618, 3000);
 }
