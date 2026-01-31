@@ -9,5 +9,5 @@ function changePhoto618() {
 
 function returnPhoto618() {
   document.getElementById("myPhoto2").src =
-    "image/S__75644955_0.jpg";
+    "image/ce88e35d1f96210150e2d88598b9ddeb_w.jpeg";
 }
